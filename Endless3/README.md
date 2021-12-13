@@ -3,12 +3,14 @@ This is mod pack main directory
 
 Full README below
 
-| | | | | | | | | |
+-------------------------
 
 <div align="center">
 
 # Endless Adventure 3
 The next generation of my Endless Adventure mod pack
+
+<div align="left">
 
 ## :heavy_exclamation_mark: Reminder
 
